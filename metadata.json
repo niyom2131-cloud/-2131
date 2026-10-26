@@ -1,0 +1,6 @@
+{
+  "name": "ระบบลงทะเบียนงานคืนสู่เหย้า นนส.เหล่าทหารขนส่ง 2569",
+  "description": "ระบบลงทะเบียน ตรวจสอบสลิปโอนเงิน บัตร QR Code เข้างาน และสแกนเช็คชื่อหน้างาน คืนสู่เหย้า นนส.เหล่าทหารขนส่ง 21/31",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
